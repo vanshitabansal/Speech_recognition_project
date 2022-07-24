@@ -1,0 +1,2 @@
+mkdir live_testing
+mkdir live_testing\recordings
